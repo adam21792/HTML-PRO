@@ -1,0 +1,52 @@
+body{
+	font-size: 60PX;
+	font-family: serif,Century Gothic;
+	background-color: darkred;
+}
+nav{
+	background-color: #6666aaaa;
+}
+main{
+	background-color: darkred;
+	font-size: 40px;
+}
+header{
+	background-color: #44400fff;
+	text-align: center;
+	color: orange;
+	font-family: serif,Century Gothic;
+}
+h1{ 
+text-align: center;
+color: #fff00033;
+font-family:arail;
+ }
+li{
+	display: auto;
+	width: screen;
+	text-align: left;
+	color: black;
+	size: 40px;
+}
+h4{
+	text-align: center;
+	color: brown;
+	font-family: serif,Century Gothic;
+	float: right;
+}
+img{
+width: 150px;
+height: 150px;
+}
+footer{
+	background-color: gray;
+}
+p {
+	line-height: 2px;
+text-align: center;
+float: left;
+
+}
+div{
+	display: inline-block;
+}
